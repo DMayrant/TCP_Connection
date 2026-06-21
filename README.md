@@ -32,6 +32,8 @@ nginx-web Service
 Nginx Pods
 ```
 
+![image alt](https://github.com/DMayrant/TCP_Connection/blob/main/Screenshot%202569-06-21%20at%2015.32.27.png?raw=true)
+
 ---
 
 ## Technologies Used
