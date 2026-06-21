@@ -1,4 +1,4 @@
-# Kubernetes TCP Connectivity Validation Lab
+# Kubernetes TCP Connectivity Validation 🌏
 
 ## Overview
 
@@ -16,7 +16,7 @@ The environment consists of an Nginx deployment running inside Kubernetes and a 
 
 ---
 
-## Architecture
+## Architecture 🏗️
 
 ```text
 Python Socket Client
