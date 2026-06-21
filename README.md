@@ -99,6 +99,7 @@ Expected output:
 ```text
 Forwarding from 127.0.0.1:3000 -> 80
 ```
+![image alt](https://github.com/DMayrant/TCP_Connection/blob/main/Screenshot%202569-06-21%20at%2015.33.23.png?raw=true)
 
 This creates a tunnel from your local machine to the Kubernetes Service.
 
