@@ -11,8 +11,9 @@ spec:
     command: ["bin/sh", "-c"]
     args:
     - |
-      while true; do curl -I http://nginx-web.default.svc.cluster.local;
-      sleep 1;
+      while true, do;
+        curl -I http://nginx-web.default.svc.cluster.local;
+        sleep 1;
       done
   dnsPolicy: ClusterFirst
   restartPolicy: Always
